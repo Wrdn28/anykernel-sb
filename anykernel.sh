@@ -4,8 +4,8 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=StormBreaker Kernel
-maintainer.string1=Saalim Quadri, Team StormBreaker
+kernel.string=Xnova Kernel
+maintainer.string1=Hirokixd28, Team HK-projection
 do.devicecheck=1
 do.modules=0
 do.systemless=1
