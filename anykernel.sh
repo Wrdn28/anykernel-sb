@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xnova Kernel
+kernel.string=Orion Kernel
 maintainer.string1=Hirokixd28, Team HK-projection
 do.devicecheck=1
 do.modules=0
